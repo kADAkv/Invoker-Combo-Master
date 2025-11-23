@@ -1,3 +1,7 @@
+<p align="center">
+      <img src="[Project Logo Url](https://i.pinimg.com/originals/18/7f/49/187f498bab7c311ad1debf93cf716c41.gif)" width="726">
+</p>
+
 <b>Invoker Combo Master - Your personal assistant for perfect Invoker control in Dota 2!
 
 ⚡ Instant Combos with Single Press
