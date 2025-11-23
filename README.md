@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="(https://i.pinimg.com/736x/e6/a1/eb/e6a1ebcafba5069a13a11622525c9334.jpg)" width="726">
+      <img src="https://i.pinimg.com/originals/18/7f/49/187f498bab7c311ad1debf93cf716c41.gif" width="726">
 </p>
 
 <b>Invoker Combo Master - Your personal assistant for perfect Invoker control in Dota 2!
