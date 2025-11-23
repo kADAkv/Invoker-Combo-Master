@@ -1,4 +1,4 @@
-Invoker Combo Master - Your personal assistant for perfect Invoker control in Dota 2!
+<b>Invoker Combo Master - Your personal assistant for perfect Invoker control in Dota 2!
 
 ⚡ Instant Combos with Single Press
 
@@ -15,3 +15,4 @@ Easy key rebinding in just two clicks
 Automatic settings save
 
 Compact always-on-top interface
+</b>
