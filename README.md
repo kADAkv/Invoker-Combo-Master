@@ -20,3 +20,7 @@
 
 ・Compact always-on-top interface
 </b>
+
+<p align="center">
+      <img src="https://cdn.discordapp.com/attachments/1300536579307077697/1442298086851612672/3D43F8F2-3585-4D2A-B871-DE74BD53D724.png?ex=6924ec44&is=69239ac4&hm=2ce6c9a5347c748416a5e8356b95b93c1b3e01345c35cb2ae465884f8dceec98" width="400">
+</p>
